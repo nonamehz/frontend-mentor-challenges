@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 #### Desktop
 
-![Screenshot QR Code Component - Desktop](./screenshots/Screenshoot-Desktop.png)
+![Screenshot QR Code Component - Desktop](./screenshots/Screenshot-Desktop.png)
 
 
 ### Links
