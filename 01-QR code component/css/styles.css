@@ -27,7 +27,7 @@ a {
     text-decoration: none;
 }
 
-.qr__card {
+.card {
     width: 280px;
     height: 500px;
     text-align: center;
@@ -36,23 +36,23 @@ a {
     border-radius: 20px;
 }
 
-.qr__card-img {
+.card__img {
     border-radius: 10px;
 }
 
-.qr__card-info {
+.card__info {
     margin: 20px 10px;
     text-align: center;
 }
 
-.qr__card-title {
+.card__title {
     color: var(--darkBlue);
     font-size: 1.4rem;
     font-weight: 700;
     margin-bottom: 30px;
 }
 
-.qr__card-description {
+.card__description {
     color: var(--grayishBlue);
     font-size: 1rem;
 }
