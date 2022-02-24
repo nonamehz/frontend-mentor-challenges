@@ -1,4 +1,4 @@
-# Frontend Mentor - Challenges by Jose Caballero 😁
+# Frontend Mentor - Challenges
 
 ## QR code component solution
 
