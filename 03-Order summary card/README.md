@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Repository]()
+- Solution URL: [Repository](https://github.com/nonamehz/frontend-mentor-challenges/tree/main/03-Order%20summary%20card)
 - Live Site URL: [Order summary card Challenge - Netlify](https://ordersummarycard-challenge.netlify.app/)
 
 ## My process
