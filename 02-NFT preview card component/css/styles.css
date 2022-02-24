@@ -1,0 +1,155 @@
+:root {
+    --softBlue: hsl(215, 51%, 70%);
+    --cyan: hsl(178, 100%, 50%);
+    --cyanAlt: hsla(178, 100%, 50%, 50%);
+    --mainBackgroundColor: hsl(217, 54%, 11%);
+    --cardBackgroundColor: hsl(216, 50%, 16%);
+    --lineColor: hsl(215, 32%, 27%);
+    --white: hsl(0, 0%, 100%);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: var(--mainBackgroundColor);
+    display: grid;
+    place-content: center;
+    font-family: 'Outfit', sans-serif;
+    height: 100vh;
+    width: 100vw;
+}
+
+img {
+    width: 100%;
+}
+
+.card {
+    background-color: var(--cardBackgroundColor);
+    border-radius: 15px;
+    padding: 20px;
+    width: 290px;
+}
+
+.card__image {
+    cursor: pointer;
+    height: 290px;
+    position: relative;
+}
+
+.card__image-nft {
+    position: absolute;
+    border-radius: 10px;
+    z-index: 1;
+}
+
+.card__image-icon {
+    align-items: center;
+    background-color: var(--cyanAlt);
+    border-radius: 10px;
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    opacity: 0;
+    position: absolute;
+    width: 100%;
+    z-index: 2;
+
+    transition: opacity .3s ease;
+}
+
+.card__image-icon:hover {
+    opacity: 1;
+}
+
+.card__image-icon img {
+    width: 50px;
+}
+
+.card__info {
+    margin: 20px 0;
+}
+
+.card__title {
+    color: var(--white);
+    font-size: 1.3rem;
+    width: max-content;
+
+    transition: color .3s ease;
+}
+
+.card__title:hover {
+    color: var(--cyan);
+    cursor: pointer;
+}
+
+.card__description {
+    color: var(--softBlue);
+    font-weight: 300;
+    font-size: 1rem;
+    line-height: 1.8;
+    margin: 20px 0;
+}
+
+.card__stats {
+    align-items: center;
+    display: flex;
+    font-size: 1rem;
+    justify-content: space-between;
+}
+
+.card__stats img {
+    margin-right: 8px;
+}
+
+.card__stats-price {
+    align-items: center;
+    color: var(--cyan);
+    display: flex;
+}
+
+.card__stats-price img {
+    width: 12px;
+}
+
+.card__stats-time {
+    align-items: center;
+    color: var(--softBlue);
+    display: flex;
+}
+
+.card__stats-time img {
+    width: 20px;
+}
+
+.card__footer {
+    align-items: center;
+    border-top: 1px solid var(--lineColor);
+    color: var(--white);
+    display: flex;
+    font-weight: 300;
+    font-size: 1rem;
+    padding: 20px 0 0 0;
+}
+
+.card__footer img {
+    border: 1px solid var(--white);
+    border-radius: 100%;
+    margin-right: 10px;
+    width: 35px;
+}
+
+.card__footer p {
+    transition: color .3s ease;
+}
+
+.card__footer p:hover {
+    color: var(--cyan);
+    cursor: pointer;
+}
+
+.card__footer p > span {
+    color: var(--softBlue);
+}
