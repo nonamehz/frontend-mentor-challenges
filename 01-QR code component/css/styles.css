@@ -12,11 +12,7 @@
 
 body {
     background-color: var(--lightGray);
-    display: grid;
-    height: 100vh;
     font-family: 'Outfit', sans-serif;
-    place-content: center;
-    width: 100vw;
 }
 
 img {
@@ -25,6 +21,13 @@ img {
 
 a {
     text-decoration: none;
+}
+
+.container {
+    display: grid;
+    height: 100vh;
+    place-content: center;
+    width: 100vw;
 }
 
 .card {
