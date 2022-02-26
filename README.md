@@ -15,3 +15,7 @@
 ## Stats preview card component solution
 
 - Live Site URL: [Stats preview card component Challenge - Netlify](https://statspreviewcardcomponentz-challenge.netlify.app/)
+
+## 3 Column preview card component solution
+
+- Live Site URL: [3 Column preview card component Challenge - Netlify](https://3columnprevewcardcomponent-challenge.netlify.app/)
