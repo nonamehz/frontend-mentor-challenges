@@ -11,3 +11,7 @@
 ## Order summary card solution
 
 - Live Site URL: [Order summary card Challenge - Netlify](https://ordersummarycard-challenge.netlify.app/)
+
+## Stats preview card component solution
+
+- Live Site URL: [Stats preview card component Challenge - Netlify](https://statspreviewcardcomponentz-challenge.netlify.app/)
