@@ -1,0 +1,124 @@
+:root {
+    --brightOrange: hsl(31, 77%, 52%);
+    --darkCyan: hsl(184, 100%, 22%);
+    --veryDarkCyan: hsl(179, 100%, 13%);
+    --transparentWhite: hsla(0, 0%, 100%, 0.75);
+    --veryLightGray: hsl(0, 0%, 95%);
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* UTILS */
+.bg-orange {
+    background-color: var(--brightOrange);
+}
+
+.orange {
+    color: var(--brightOrange);
+}
+
+.bg-cyan {
+    background-color: var(--darkCyan);
+}
+
+.cyan {
+    color: var(--darkCyan);
+}
+
+.bg-darkCyan {
+    background-color: var(--veryDarkCyan);
+}
+
+.darkCyan {
+    color: var(--veryDarkCyan);
+}
+
+.button {
+    font-size: .8rem;
+    background-color: var(--veryLightGray);
+    padding: 10px 20px;
+    display: inline-block;
+    border-radius: 20px;
+    border: 2px solid var(--veryLightGray);
+
+    transition: background-color .3s ease;
+}
+
+.button:hover {
+    background-color: transparent;
+    color: var(--veryLightGray);
+}
+
+.container {
+    display: grid;
+    place-content: center;
+    padding: 30px 0px;
+}
+
+@media (min-width: 768px) {
+    .container {
+        height: 100vh;
+        padding: 0px;
+    }
+}
+
+/* CARDS */
+
+.cards {
+    border-radius: 5px;
+    display: grid;
+    grid-template-columns: 250px;
+    color: var(--transparentWhite);
+    overflow: hidden;
+}
+
+@media (min-width: 768px) {
+    .cards {
+        grid-template-columns: repeat(3, 300px);
+    }
+}
+
+.card {
+    padding: 40px;
+}
+
+@media (min-width: 768px) {
+    .card {
+        padding-right: 60px;
+    }
+}
+
+.card img {
+    width: 50px;
+}
+
+.card__title {
+    font-weight: 700;
+    margin-top: 20px;
+    font-size: 2rem;
+    text-transform: uppercase;
+    font-family: 'Big Shoulders Display', cursive;
+    color: var(--veryLightGray);
+}
+
+.card__description {
+    margin: 20px 0px;
+    line-height: 1.5;
+}
+@media (min-width: 768px) {
+    .card__description {
+        margin-bottom: 70px;
+    }
+}
