@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Repository](https://github.com/nonamehz/frontend-mentor-challenges/tree/main/05-3%20Column%20preview%20card%20component)
-- Live Site URL: [03 Column preview card component Challenge - Netlify](https://03columnprevewcardcomponent-challenge.netlify.app/)
+- Live Site URL: [03 Column preview card component Challenge - Netlify](https://3columnprevewcardcomponent-challenge.netlify.app/)
 
 ## My process
 
