@@ -1,0 +1,118 @@
+:root {
+    --darkCyan: hsl(185, 75%, 39%);
+    --veryDarkDesaturatedBlue: hsl(229, 23%, 23%);
+    --darkGrayishBlue: hsl(227, 10%, 46%);
+    --darkGray: hsl(0, 0%, 59%);
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: var(--darkCyan);
+    font-size: 18px;
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+.container {
+    display: grid;
+    height: 100vh;
+    overflow: hidden;
+    place-content: center;
+    position: relative;
+    width: 100vw;
+}
+
+.bg-1 {
+    left: -90%;
+    position: absolute;
+    top: -60%;
+}
+
+.bg-2 {
+    bottom: -60%;
+    position: absolute;
+    right: -90%;
+}
+
+@media (min-width: 768px) {
+    .bg-1 {
+        left: -1%;
+    }
+
+    .bg-2 {
+        right: -1%;
+    }
+}
+
+/* CARD */
+.card {
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    box-shadow: 0px 0px 9px 0px hsl(185, 79%, 34%);
+    -webkit-box-shadow: 0px 0px 9px 0px hsl(185, 79%, 34%);
+    -moz-box-shadow: 0px 0px 9px 0px hsl(185, 79%, 34%);
+    min-width: 330px;
+    overflow: hidden;
+    width: 350px;
+    z-index: 10;
+}
+
+.card__cover {
+    background-image: url('../assets/bg-pattern-card.svg');
+    height: 150px;
+}
+
+.card__content {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 80px;
+    border-bottom: 1px solid #E8E8E8;
+}
+
+.card__image {
+    border-radius: 50%;
+    border: 5px solid #FFFFFF;
+    position: absolute;
+    top: -50px;
+    width: 100px;
+}
+
+.card__name {
+    color: var(--veryDarkDesaturatedBlue);
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.card__name span {
+    color: var(--darkGrayishBlue);
+    font-weight: 400;
+}
+
+.card__city {
+    color: var(--darkGrayishBlue);
+    font-size: 1rem;
+    margin: 10px 0 30px;
+}
+
+.card__stats {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    text-align: center;
+}
+
+.card__stats-item p {
+    color: var(--veryDarkDesaturatedBlue);
+    font-weight: 700;
+}
+
+.card__stats-item span {
+    color: var(--darkGrayishBlue);
+    font-size: .7rem;
+    letter-spacing: 2px;
+}

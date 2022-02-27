@@ -19,3 +19,7 @@
 ## 3 Column preview card component solution
 
 - Live Site URL: [3 Column preview card component Challenge - Netlify](https://3columnprevewcardcomponent-challenge.netlify.app/)
+
+## Profile card component solution
+
+- Live Site URL: [Profile card component Challenge - Netlify](https://profilecardcomponent-challenge.netlify.app/)
