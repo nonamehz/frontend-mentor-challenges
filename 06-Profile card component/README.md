@@ -20,18 +20,18 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-#### Profile card component - Mobile
+#### Profile Card Component - Mobile
 
-![Screenshot Profile card component - Mobile](./screenshots/Screenshot-Mobile.png)
+![Screenshot Profile Card Component - Mobile](./screenshots/Screenshot-Mobile.png)
 
-#### Profile card component - Desktop
+#### Profile Card Component - Desktop
 
-![Screenshot Profile card component - Desktop](./screenshots/Screenshot-Desktop.png)
+![Screenshot Profile Card Component - Desktop](./screenshots/Screenshot-Desktop.png)
 
 ### Links
 
 - Solution URL: [Repository](https://github.com/nonamehz/frontend-mentor-challenges/tree/main/06-Profile%20card%20component)
-- Live Site URL: [Profile card component Challenge - Netlify](https://profilecardcomponent-challenge.netlify.app/)
+- Live Site URL: [Profile Card Component Challenge - Netlify](https://profilecardcomponent-challenge.netlify.app/)
 
 ## My process
 

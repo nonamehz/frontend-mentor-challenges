@@ -23,18 +23,18 @@ Users should be able to:
 
 ### Screenshot
 
-#### Order summary card
+#### Order Summary Card
 
-![Screenshot Order summary card](./screenshots/Screenshot.png)
+![Screenshot Order Summary Card](./screenshots/Screenshot.png)
 
-#### Order summary card - Active states
+#### Order Summary Card - Active states
 
-![Screenshot Order summary card - active states](./screenshots/Screenshot-ActiveStates.png)
+![Screenshot Order Summary Card - active states](./screenshots/Screenshot-ActiveStates.png)
 
 ### Links
 
 - Solution URL: [Repository](https://github.com/nonamehz/frontend-mentor-challenges/tree/main/03-Order%20summary%20card)
-- Live Site URL: [Order summary card Challenge - Netlify](https://ordersummarycard-challenge.netlify.app/)
+- Live Site URL: [Order Summary Card Challenge - Netlify](https://ordersummarycard-challenge.netlify.app/)
 
 ## My process
 

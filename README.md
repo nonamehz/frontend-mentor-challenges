@@ -1,25 +1,25 @@
 # Frontend Mentor - Challenges
 
-## QR code component solution
+## QR Code Component Solution
 
 - Live Site URL: [QR Component Challenge - Netlify](https://qrcodecomponent-challenge.netlify.app/)
 
-## NFT preview card component solution
+## NFT Preview Card Component Solution
 
 - Live Site URL: [NFT Preview Card Component Challenge - Netlify](https://nftpreviewcardcomponent-challenge.netlify.app/)
 
-## Order summary card solution
+## Order Summary Card Solution
 
-- Live Site URL: [Order summary card Challenge - Netlify](https://ordersummarycard-challenge.netlify.app/)
+- Live Site URL: [Order Summary Card Challenge - Netlify](https://ordersummarycard-challenge.netlify.app/)
 
-## Stats preview card component solution
+## Stats Preview Card Component Solution
 
-- Live Site URL: [Stats preview card component Challenge - Netlify](https://statspreviewcardcomponentz-challenge.netlify.app/)
+- Live Site URL: [Stats Preview Card Component Challenge - Netlify](https://statspreviewcardcomponentz-challenge.netlify.app/)
 
-## 3 Column preview card component solution
+## 3 Column Preview Card Component Solution
 
-- Live Site URL: [3 Column preview card component Challenge - Netlify](https://3columnprevewcardcomponent-challenge.netlify.app/)
+- Live Site URL: [3 Column Preview Card Component Challenge - Netlify](https://3columnprevewcardcomponent-challenge.netlify.app/)
 
-## Profile card component solution
+## Profile Card Component Solution
 
-- Live Site URL: [Profile card component Challenge - Netlify](https://profilecardcomponent-challenge.netlify.app/)
+- Live Site URL: [Profile Card Component Challenge - Netlify](https://profilecardcomponent-challenge.netlify.app/)

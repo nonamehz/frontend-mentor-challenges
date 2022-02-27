@@ -15,19 +15,19 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Screenshot
 
-#### NFT Preview card component
+#### NFT Preview Card Component
 
-![Screenshot NFT preview card component](./screenshots/Screenshot.png)
+![Screenshot NFT Preview Card Component](./screenshots/Screenshot.png)
 
-#### NFT Preview card component - Active states
+#### NFT Preview Card Component - Active states
 
-![Screenshot NFT preview card component - active states](./screenshots/Screenshot-ActiveStates.png)
+![Screenshot NFT Preview Card Component - active states](./screenshots/Screenshot-ActiveStates.png)
 
 
 ### Links
 
 - Solution URL: [Repository](https://github.com/nonamehz/frontend-mentor-challenges/tree/main/02-NFT%20preview%20card%20component)
-- Live Site URL: [NFT preview card component Challenge - Netlify](https://nftpreviewcardcomponent-challenge.netlify.app/)
+- Live Site URL: [NFT Preview Card Component Challenge - Netlify](https://nftpreviewcardcomponent-challenge.netlify.app/)
 
 ## My process
 

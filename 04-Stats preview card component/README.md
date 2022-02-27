@@ -22,18 +22,18 @@ Users should be able to:
 
 ### Screenshot
 
-#### Stats preview card component - Mobile
+#### Stats Preview Card Component - Mobile
 
-![Screenshot Stats preview card component - Mobile](./screenshots/Screenshot-Mobile.png)
+![Screenshot Stats Preview Card Component - Mobile](./screenshots/Screenshot-Mobile.png)
 
-#### Stats preview card component - Desktop
+#### Stats Preview Card Component - Desktop
 
-![Screenshot Stats preview card component - Desktop](./screenshots/Screenshot-Desktop.png)
+![Screenshot Stats Preview Card Component - Desktop](./screenshots/Screenshot-Desktop.png)
 
 ### Links
 
 - Solution URL: [Repository](https://github.com/nonamehz/frontend-mentor-challenges/tree/main/04-Stats%20preview%20card%20component)
-- Live Site URL: [Stats preview card component Challenge - Netlify](https://statspreviewcardcomponentz-challenge.netlify.app/)
+- Live Site URL: [Stats Preview Card Component Challenge - Netlify](https://statspreviewcardcomponentz-challenge.netlify.app/)
 
 ## My process
 

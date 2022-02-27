@@ -23,22 +23,22 @@ Users should be able to:
 
 ### Screenshot
 
-#### 3-Column preview card component - Mobile
+#### 3-Column Preview Card Component - Mobile
 
-![Screenshot 3-Column preview card component - Mobile](./screenshots/Screenshot-Mobile.png)
+![Screenshot 3-Column Preview Card Component - Mobile](./screenshots/Screenshot-Mobile.png)
 
-#### 3-Column preview card component - Desktop
+#### 3-Column Preview Card Component - Desktop
 
-![Screenshot 3-Column preview card component - Desktop](./screenshots/Screenshot-Desktop.png)
+![Screenshot 3-Column Preview Card Component - Desktop](./screenshots/Screenshot-Desktop.png)
 
-#### 3-Column preview card component - Hover Effect
+#### 3-Column Preview Card Component - Hover Effect
 
-![Screenshot 3-Column preview card component - Desktop](./screenshots/Screenshot-HoverEffect.png)
+![Screenshot 3-Column Preview Card Component - Desktop](./screenshots/Screenshot-HoverEffect.png)
 
 ### Links
 
 - Solution URL: [Repository](https://github.com/nonamehz/frontend-mentor-challenges/tree/main/05-3%20Column%20preview%20card%20component)
-- Live Site URL: [3-Column preview card component Challenge - Netlify](https://3columnprevewcardcomponent-challenge.netlify.app/)
+- Live Site URL: [3-Column Preview Card Component Challenge - Netlify](https://3columnprevewcardcomponent-challenge.netlify.app/)
 
 ## My process
 
