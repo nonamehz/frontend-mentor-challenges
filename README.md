@@ -23,3 +23,7 @@
 ## Profile Card Component Solution
 
 - Live Site URL: [Profile Card Component Challenge - Netlify](https://profilecardcomponent-challenge.netlify.app/)
+
+## FAQ Accordion Card Solution
+
+- Live Site URL: [FAQ Accordion Card Challenge - Netlify](https://faqaccordioncard-challenge.netlify.app/)

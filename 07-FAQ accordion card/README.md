@@ -24,8 +24,6 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
 #### FAQ Accordion Card - Mobile
 
 ![Screenshot FAQ Accordion Card - Mobile](./screenshots/Screenshot-Mobile.png)
