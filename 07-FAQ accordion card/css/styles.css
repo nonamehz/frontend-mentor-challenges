@@ -23,29 +23,97 @@ body {
 }
 
 .container {
+    align-items: center;
     background: linear-gradient(var(--softViolet), var(--softBlue));
-    display: grid;
-    place-content: center;
+    display: flex;
     height: 100vh;
+    justify-content: center;
+    overflow: auto;
     width: 100vw;
 }
 
 .faq {
     border-radius: 20px;
     background-color: #FFFFFF;
-    padding: 20px;
+    margin-top: 120px;
+    position: relative;
+    padding: 20px 20px 50px 20px;
     width: 300px;
+    -webkit-box-shadow: 0px 16px 36px -3px var(--veryDarkGrayishBlue);
+    -moz-box-shadow: 0px 16px 36px -3px var(--veryDarkGrayishBlue);
+    box-shadow: 0px 16px 36px -3px var(--veryDarkGrayishBlue);
+}
+
+@media (min-width: 1440px) {
+    .faq {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        margin-top: 0px;
+        width: 50%;
+        max-width: 800px;
+        padding: 100px;
+    }
+}
+
+.faq__image {
+    display: flex;
+    justify-content: center;
+}
+
+@media (min-width: 1440px) {
+    .faq__image {
+        position: relative;
+    }
+}
+
+.image__woman {
+    position: absolute;
+    top: -110px;
+    width: 240px;
+}
+
+.image__shadow {
+    position: absolute;
+    top: 0;
+}
+
+.image__box {
+    display: none;
+}
+
+@media (min-width: 1440px) {
+
+    .faq__image img {
+        left: -180px;
+        width: 450px;
+    }
+
+    .image__woman {
+        top: 0;
+    }
+
+    .image__shadow {
+        top: 240px;
+    }
+
 }
 
 .faq__title {
     font-size: 2rem;
-    margin-bottom: 10px;
+    margin: 110px 0px 10px;
     text-align: center;
 }
 
+@media (min-width: 1440px) {
+    .faq__title {
+        margin-top: 0px;
+        text-align: start;
+    }
+}
+
 .faq__content {
-    padding: 10px 0px 15px;
     border-bottom: 1px solid var(--lightGrayishBlue);
+    padding: 10px 0px;
 }
 
 .faq__question-box {
@@ -89,9 +157,14 @@ body {
     color: var(--darkGrayishBlue);
 
     transition: max-height .3s ease;
+}
 
+@media (min-width: 1440px) {
+    .faq__answer {
+        width: 70%;
+    }
 }
 
 .faq__answer.selected {
-    max-height: 50px;
+    max-height: 100px;
 }
